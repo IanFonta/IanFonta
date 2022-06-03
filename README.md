@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IanFonta
+- 👀 I’m interested in learning Java, C++, C# and more programming languages
+- 🌱 I’m currently learning Advance Javascript, CSS and HTML. I´m learning the basics of C++ too.
+- 💞️ I’m looking to collaborate on any project!
+- 📫 Find me on Instagram as: Ianfontabbto2 
