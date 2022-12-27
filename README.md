@@ -4,8 +4,8 @@
 
  <body>
   <header>
-        <h1>hi! my name is Ian Fontanellaz</h1>
-        <h2>this is my portfolio!</h2>
+        <h1>Hi! My name is Ian Fontanellaz</h1>
+        <h2>This is my portfolio!</h2>
     </header>
 
     <div class="Technologies & Tools">
